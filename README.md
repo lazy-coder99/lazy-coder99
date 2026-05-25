@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a recent graduate from IIT Kharagpur. I have done internship at Intalent.ai as an AI Engineer for two months. <br>I'm looking for open opportunities in the field of Data Science or Gen AI.<br>I'm currently learning Agentic AI , developing AI systems , deploying AI systems . <br>And I am always curious about new Tech/developments in AI.<br>Fun Fact : In the era of night owls , I can work at morning 5AM after waking at 4:00AM.
+I'm a recent graduate from IIT Kharagpur. I have done internship at Intalent.ai as an AI Engineer for three months. <br>I'm looking for open opportunities in the field of Data Science or Gen AI.<br>I'm currently learning Agentic AI , developing AI systems , deploying AI systems . <br>And I am always curious about new Tech/developments in AI.<br>Fun Fact : In the era of night owls , I can work at morning 5AM after waking at 4:00AM.
 
 
 # 💻 Tech Stack:
